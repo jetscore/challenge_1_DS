@@ -27,4 +27,19 @@ Este desafío se desarrolló en un cuaderno Jupyter llamado `AluraStoreLatam.ipy
 1. Clona este repositorio:
    ```bash
    https://github.com/jetscore/challenge_1_DS.git
-   
+
+
+2️⃣ Instala las dependencias necesarias:
+
+```bash
+pip install pandas numpy matplotlib
+
+3️⃣ Abre el cuaderno Jupyter:
+
+```bash
+jupyter notebook AluraStoreLatam.ipynb
+
+## 📎 Recomendación Final
+
+Tras analizar métricas clave como ventas totales, puntuaciones de reseñas y desempeño operativo, se identificó la tienda menos eficiente dentro de la cadena **Alura Store**.  
+La recomendación final se encuentra al final del cuaderno, respaldada por visualizaciones claras y argumentos basados en los datos.
