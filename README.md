@@ -25,19 +25,20 @@ Este desafío se desarrolló en un cuaderno Jupyter llamado `AluraStoreLatam.ipy
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
-   ```bash
+  ```bash
    https://github.com/jetscore/challenge_1_DS.git
+  ```
 
+2️. Instala las dependencias necesarias:
 
-2️⃣ Instala las dependencias necesarias:
+  ```bash
+   pip install pandas numpy matplotlib
+  ```
 
-```bash
-pip install pandas numpy matplotlib
-
-3️⃣ Abre el cuaderno Jupyter:
-
-```bash
-jupyter notebook AluraStoreLatam.ipynb
+3. Abre el cuaderno Jupyter:
+  ```bash
+   jupyter notebook AluraStoreLatam.ipynb
+  ```
 
 ## 📎 Recomendación Final
 
