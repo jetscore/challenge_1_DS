@@ -26,4 +26,5 @@ Este desafío se desarrolló en un cuaderno Jupyter llamado `AluraStoreLatam.ipy
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/jetscore/AluraStoreLatam.git
+   https://github.com/jetscore/challenge_1_DS.git
+   
